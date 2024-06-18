@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\bin\Debug\net8.0\Protectedkeyword.exe
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\bin\Debug\net8.0\Protectedkeyword.deps.json
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\bin\Debug\net8.0\Protectedkeyword.runtimeconfig.json
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\bin\Debug\net8.0\Protectedkeyword.dll
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\bin\Debug\net8.0\Protectedkeyword.pdb
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\obj\Debug\net8.0\Protectedkeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\obj\Debug\net8.0\Protectedkeyword.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\obj\Debug\net8.0\Protectedkeyword.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\obj\Debug\net8.0\Protectedkeyword.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\obj\Debug\net8.0\Protectedkeyword.dll
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\obj\Debug\net8.0\refint\Protectedkeyword.dll
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\obj\Debug\net8.0\Protectedkeyword.pdb
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\obj\Debug\net8.0\Protectedkeyword.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\Protectedkeyword\obj\Debug\net8.0\ref\Protectedkeyword.dll
