@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\bin\Debug\net8.0\OOPWork6.exe
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\bin\Debug\net8.0\OOPWork6.deps.json
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\bin\Debug\net8.0\OOPWork6.runtimeconfig.json
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\bin\Debug\net8.0\OOPWork6.dll
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\bin\Debug\net8.0\OOPWork6.pdb
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\obj\Debug\net8.0\OOPWork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\obj\Debug\net8.0\OOPWork6.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\obj\Debug\net8.0\OOPWork6.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\obj\Debug\net8.0\OOPWork6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\obj\Debug\net8.0\OOPWork6.dll
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\obj\Debug\net8.0\refint\OOPWork6.dll
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\obj\Debug\net8.0\OOPWork6.pdb
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\obj\Debug\net8.0\OOPWork6.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork6\obj\Debug\net8.0\ref\OOPWork6.dll
