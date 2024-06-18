@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Revisiting Concepts\HashTable\obj\Debug\net8.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Revisiting Concepts\HashTable\obj\Debug\net8.0\HashTable.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\HashTable\obj\Debug\net8.0\HashTable.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Revisiting Concepts\HashTable\obj\Debug\net8.0\HashTable.csproj.CoreCompileInputs.cache

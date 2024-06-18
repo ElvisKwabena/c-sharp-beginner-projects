@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork3\obj\Debug\net8.0\OOPWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork3\obj\Debug\net8.0\OOPWork3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork3\obj\Debug\net8.0\OOPWork3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Revisiting Concepts\OOPWork3\obj\Debug\net8.0\OOPWork3.csproj.CoreCompileInputs.cache

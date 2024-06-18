@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Revisiting Concepts\GenericsImplementation\obj\Debug\net8.0\GenericsImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Revisiting Concepts\GenericsImplementation\obj\Debug\net8.0\GenericsImplementation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\GenericsImplementation\obj\Debug\net8.0\GenericsImplementation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Revisiting Concepts\GenericsImplementation\obj\Debug\net8.0\GenericsImplementation.csproj.CoreCompileInputs.cache
