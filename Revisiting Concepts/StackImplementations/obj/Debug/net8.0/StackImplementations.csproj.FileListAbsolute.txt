@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\bin\Debug\net8.0\StackImplementations.exe
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\bin\Debug\net8.0\StackImplementations.deps.json
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\bin\Debug\net8.0\StackImplementations.runtimeconfig.json
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\bin\Debug\net8.0\StackImplementations.dll
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\bin\Debug\net8.0\StackImplementations.pdb
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\obj\Debug\net8.0\StackImplementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\obj\Debug\net8.0\StackImplementations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\obj\Debug\net8.0\StackImplementations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\obj\Debug\net8.0\StackImplementations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\obj\Debug\net8.0\StackImplementations.dll
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\obj\Debug\net8.0\refint\StackImplementations.dll
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\obj\Debug\net8.0\StackImplementations.pdb
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\obj\Debug\net8.0\StackImplementations.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Revisiting Concepts\StackImplementations\obj\Debug\net8.0\ref\StackImplementations.dll
